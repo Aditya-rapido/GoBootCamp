@@ -1,1 +1,1 @@
-package Go_Learning_Sessions
+package main
