@@ -1,0 +1,10 @@
+{
+  "id": "product_E_101",
+  "name": "Wireless Headphones",
+  "description": "Noise cancelling over-ear Bluetooth headphones",
+  "price": 2499.00,
+  "stock": 50,
+  "category": "Electronics",
+  "created_at": 1732780800,
+  "updated_at": 1732980810
+}

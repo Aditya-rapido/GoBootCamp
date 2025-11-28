@@ -1,0 +1,38 @@
+{
+  "id": "user9682",
+  "name": "Aditya",
+  "email": "aditya@noob.com",
+  "password": "passwordishere",
+  "role": "user",
+  "registeredCity": "Bangalore",
+  "cityId": "Ban2421818",
+  "mobile": "9453278172",
+  "language": "en",
+  "status": "active",
+  "addresses": [
+    {
+      "address_id": "addr_001",
+      "type": "home",
+      "address_line": "HSR Layout, Sector 2",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": "560102",
+      "is_default": true
+    },
+    {
+      "address_id": "addr_002",
+      "type": "office",
+      "address_line": "WeWork, ORR Bellandur",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": "560103",
+      "is_default": false
+    }
+  ],
+  "profile_pic_url": "zvsjsams/img",
+  "last_login": "1732980800",
+  "created_at": 1732780800,
+  "updated_at": 1732980800
+}
